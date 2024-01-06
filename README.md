@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I'm HARSH KUMAR</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Harsh Kumar from Greater Noida IN<br><br>- 🔭A passionate frontend developer<br>- 🤝 I'm open to collaborating on Interesting Projects</p>
+<p align="left">I'm from Greater Noida IN<br><br>- 🔭A passionate frontend developer<br>- 🤝 I'm open to collaborating on Interesting Projects</p>
 
 ###
 
