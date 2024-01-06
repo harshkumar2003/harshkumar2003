@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1KjDT4AmHOJb-9SpVNtWPDOWWK7Mjiavh/view?usp=sharing"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://youtube.com/@execute_guy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
@@ -15,7 +9,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm HARSH KUMAR</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -23,7 +17,7 @@
 
 ###
 
-<p align="left">I'm from Greater Noida IN<br><br>- 🔭A passionate frontend developer<br>- 🤝 I'm open to collaborating on Interesting Projects</p>
+<p align="left">- 🌐I'm  from Greater Noida IN<br>- 🔭A passionate frontend developer<br>- 🤝 I'm open to collaborating on Interesting Projects</p>
 
 ###
 
