@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🤝Connect Me Here :</p>
+<h3 align="left">🤝 Connect Me Here :</h3>
 
 ###
 
