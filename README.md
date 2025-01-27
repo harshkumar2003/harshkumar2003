@@ -1,4 +1,6 @@
-<h1 align="center">hey  👋 I'm Harsh Kumar !</h1>
+<h1 align="center">
+  Hey 👋 <span style="animation: wave 2s infinite;">I'm Harsh Kumar!</span>
+</h1>
 
 ###
 
@@ -23,3 +25,20 @@
 [![](https://visitcount.itsvg.in/api?id=harshkumar2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    20% { transform: rotate(15deg); }
+    40% { transform: rotate(-10deg); }
+    60% { transform: rotate(10deg); }
+    80% { transform: rotate(-5deg); }
+    100% { transform: rotate(0deg); }
+  }
+
+  span {
+    display: inline-block;
+    transform-origin: 70% 70%;
+  }
+</style>
