@@ -12,7 +12,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on : Dev Foster Tech<br>👯 I’m looking to collaborate on : Interesting Projects<br>🌱 I’m currently learning : Full Stack Development<br>⚡ Fun fact : I built a website just to track my daily coffee intake – turns out, I’m a bit too passionate about both coding and coffee!
+🔭 I’m currently developing: Dev Foster Tech<br>👯 I’m looking to collaborate on : Interesting Projects<br>🌱 I’m currently learning : Full Stack Development<br>⚡ Fun fact : I built a website just to track my daily coffee intake – turns out, I’m a bit too passionate about both coding and coffee!
 
 
 ## 🌐 Socials:
